@@ -1,0 +1,25 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.1",
+    "vite-plugin-solid": "^2.5.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.10",
+    "@tanstack/solid-query": "5.0.0-alpha.0",
+    "pokeapi-typescript": "^2.1.0",
+    "solid-icons": "^1.0.4",
+    "tailwindcss": "^3.0.24",
+    "colorthief": "^2.4.0"
+  }
+}
